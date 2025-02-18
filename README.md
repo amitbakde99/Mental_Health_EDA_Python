@@ -66,6 +66,3 @@ Mental Health | EDA/
 ## Contributing
 
 Contributions are welcome! Please feel free to submit pull requests or open issues.
-
-## License
-MIT License
